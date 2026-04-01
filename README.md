@@ -1,16 +1,4 @@
-# Cucumber BDD Repository
-
-## 👨‍💻 Author
-
-**Arpit Choubey — SDET | QA | Automation Engineer**
-🔗 **LinkedIn** | **Medium**
-
-## ⭐ Support
-
-If this repository helps you, please **Star 🌟** it!
-
----
-
+# BDD Test Automation Framework Cucumber Java 
 ## Overview
 
 This repository demonstrates a complete **Cucumber BDD Framework** structure using:
@@ -158,5 +146,14 @@ Cucumber-BDD-/
   * Logging (Log4j)
   * Extent Reports
   * Parallel execution using TestNG
+ 
+    ## 👨‍💻 Author
+
+**Arpit Choubey — SDET | QA | Automation Engineer**
+🔗 **LinkedIn** | **Medium**
+
+## ⭐ Support
+
+If this repository helps you, please **Star 🌟** it!
 
 ---
